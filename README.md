@@ -5,18 +5,12 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. I am Mick Yu. My pronoun is he/him. I like moba, FPS, rhythm, visual novels, and fighting games. I am taking this class because I want to go further in the game industry. I have done a small visual novel project when I was in high school. I also have some experiences with unreal engine using the blueprint. Probably rhythm games and visual novels are the two I want to build this quarter.
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
+2. Undecided
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
-
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. I take this class because it's required. But I never done C# before. I used to do JAVA and blueprint so I still think this class will be very beneficial.
+4. I am not very good at group work since I have mild social anxiety. However, I hope everything would be fine.
 
 ## Prior Experience
 
@@ -24,11 +18,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Java
 
-2. Game development (any engine)
+2. Unreal Engine 5
 
-3. Unity
+3. no experiences with Unity
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +33,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document N/A
 
-2. Scope management
+2. Scope management N/A
 
-3. Iteration
+3. Iteration N/A
 
-4. Object-Oriented programming
+4. Object-Oriented programming N/A
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture N/A
 
 ## Complete!
 
